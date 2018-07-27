@@ -1,0 +1,96 @@
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\obj\Debug\JEMEA.csprojResolveAssemblyReference.cache
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\JEMEA.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\JEMEA.pdb
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\AjaxControlToolkit.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\AspNet.ScriptManager.jQuery.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\CrystalDecisions.VSDesigner.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.AspNet.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.Core.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.OAuth.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.OpenId.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\EntityFramework.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\MABL.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\Microsoft.Web.Infrastructure.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\System.Web.Optimization.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\System.Web.Providers.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\MABL.pdb
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\EntityFramework.xml
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.Core.xml
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.OAuth.xml
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.OpenId.xml
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\DotNetOpenAuth.AspNet.xml
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\obj\Debug\JEMEA.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\obj\Debug\JEMEA.pdb
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\JEMEA\bin\MaheshAF18.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\obj\Debug\JEMEA.csprojResolveAssemblyReference.cache
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\JEMEA.dll.config
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\JEMEA.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\JEMEA.pdb
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\AjaxControlToolkit.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\AspNet.ScriptManager.jQuery.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\CrystalDecisions.VSDesigner.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.AspNet.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.Core.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.OAuth.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.OpenId.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\EntityFramework.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\MABL.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\MaheshAF18.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\Microsoft.Web.Infrastructure.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\System.Web.Optimization.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\System.Web.Providers.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\System.Net.Http.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\MABL.pdb
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\EntityFramework.xml
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.Core.xml
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.OAuth.xml
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.OpenId.xml
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\DotNetOpenAuth.AspNet.xml
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\bin\System.Net.Http.xml
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\obj\Debug\JEMEA.dll
+D:\Development\Microsoft\WebApplication\JEMEA\JEMEA\obj\Debug\JEMEA.pdb
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\JEMEA.dll.config
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\JEMEA.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\JEMEA.pdb
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\AjaxControlToolkit.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\AspNet.ScriptManager.jQuery.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\CrystalDecisions.VSDesigner.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.AspNet.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.Core.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.OAuth.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.OpenId.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\EntityFramework.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\MABL.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\MaheshAF18.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\Microsoft.Web.Infrastructure.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\System.Web.Optimization.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\System.Web.Providers.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\System.Net.Http.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\MABL.pdb
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\EntityFramework.xml
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.Core.xml
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.OAuth.xml
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.OpenId.xml
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\DotNetOpenAuth.AspNet.xml
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\bin\System.Net.Http.xml
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\obj\Debug\JEMEA.csprojResolveAssemblyReference.cache
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\obj\Debug\JEMEA.dll
+D:\Development\Microsoft\WebApplication\JEMEA - Copy\JEMEA\obj\Debug\JEMEA.pdb

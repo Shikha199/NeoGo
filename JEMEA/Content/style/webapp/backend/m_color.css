@@ -1,0 +1,42 @@
+﻿body {background-color: #ecedef;}
+
+ 
+
+/*===================TOP ROW START*===================*/
+.mp_toprow{background: #292929;color: #fff; }
+.mp_top_lnav>li>a,.mp_top_rnav>li>a {color: #fff;}
+.mp_top_lnav>li,.mp_top_rnav>li {background-color: #7AA93C;color:#fff;}
+.mp_UserNamebx{background-color:transparent !important;color:#E0B620 !important;}
+.mp_UserNamebx>a{color:#E0B620 !important;}
+.mp_logoutbx{background-color:#BB2B31 !important;}
+
+/*===================TOP ROW END===================*/
+
+
+
+
+/*===================HEADER ROW START===================*/
+.mp_headerrow{}
+/*===================HEADER ROW START===================*/
+
+
+
+
+/*===================MENU ROW START===================*/
+.mp_menurow{}
+/*===================MENU ROW END===================*/
+
+
+
+
+/*===================PAGE CONTENT ROW START===================*/
+.mp_contentrow{}
+/*===================PAGE CONTENT ROW END===================*/
+
+
+
+
+
+/*===================FOOTER ROW START===================*/
+.mp_footerrow{}
+/*===================FOOTER CONTENT ROW END===================*/

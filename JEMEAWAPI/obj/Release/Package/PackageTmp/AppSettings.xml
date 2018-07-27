@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<Connection>
+  <ApplicationSettings>
+    <PROVIDER>SQLOLEDB.1</PROVIDER>
+    <SERVER>MAHESH-PC\MSQL14</SERVER>
+    <DATABASE>JE_TG_IM</DATABASE>
+    <USERID>sa</USERID>
+    <PASSWORD>msqle@14</PASSWORD>
+   
+  </ApplicationSettings>
+  </Connection>
+
+  
+    
+    
+     

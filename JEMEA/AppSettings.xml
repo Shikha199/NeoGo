@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<Connection>
+  <ApplicationSettings>
+    <PROVIDER>SQLOLEDB.1</PROVIDER>
+    <SERVER>DESKTOP-RDJBQ2N\TGSQLE14</SERVER>
+    <DATABASE>TGNEOGO</DATABASE>
+    <USERID>sa</USERID>
+    <PASSWORD>tgsqle@14</PASSWORD>   
+  </ApplicationSettings>
+  </Connection>
+
+  
+    
+    
+     

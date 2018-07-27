@@ -1,0 +1,6 @@
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\MABL\bin\Release\MABL.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\MABL\bin\Release\MABL.pdb
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\MABL\obj\Release\MABL.csprojResolveAssemblyReference.cache
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\MABL\obj\Release\MABL.dll
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\MABL\obj\Release\MABL.pdb
+D:\Development\JE_Projects\WebApplication\RegimTaxSolutions\JEMEA\MABL\bin\Release\MaheshAF18.dll
